@@ -1,16 +1,23 @@
-## Hi there 👋
+# Merhaba, ben Muhammet Emin
 
-<!--
-**Repairscorpion/RepairScorpion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Siber Güvenlik | Pentest | Network | Linux  
+ Bilişim Güvenliği Teknolojileri Öğrencisiyim 
+ Red Team odaklı öğreniyorum
 
-Here are some ideas to get you started:
+## İlgi Alanlarım
+- Penetrasyon Testleri
+- Ağ Güvenliği
+- Web Güvenliği
+- Zararlı Yazılım Analizi
+- Kali Linux & Tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Kullandığım Araçlar
+- Nmap, Burp Suite, Metasploit
+- Wireshark, Nessus
+- Kali Linux, Parrot OS
+- SQL, C++, Python, Java (temel)
+
+## Aktif Olarak Çalıştıklarım
+- TryHackMe / Hack The Box labları
+- Ev ortamı pentest simülasyonları
+- CTF write-up'ları
