@@ -12,8 +12,7 @@
 - Kali Linux & Tooling
 
 ## Kullandığım Araçlar
-- [Nmap] (https://img.shields.io/badge/Nmap-Network-informational)
--  Burp Suite, Metasploit
+- Nmap, Burp Suite, Metasploit
 - Wireshark, Nessus
 - Kali Linux, Parrot OS
 - SQL, C++, Python, Java (temel)
